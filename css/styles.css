@@ -1,0 +1,15 @@
+/* Styles for HTML canvas element */
+canvas {
+    display: block; /* Display type */
+    margin: auto; /* Center element */
+    background: black; /* Background color */
+    width: 800px; /* Width */
+    height: 600px; /* Height */
+}
+
+/* Styles for HTML input elements of type range */
+input[type="range"] {
+    display: block; /* Display type */
+    width: 80%; /* Width */
+    margin: 10px auto; /* Center element with a vertical margin of 10px */
+}
