@@ -1,4 +1,4 @@
-# Galáxia Rotativa
+# Galáxia Zoom
 
 This project is a simple interactive galaxy simulation using HTML, CSS, and JavaScript. The simulation is displayed on a canvas element, and the user can control the zoom level of the galaxy.
 
